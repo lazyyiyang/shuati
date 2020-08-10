@@ -26,16 +26,21 @@ b站、游戏、竞品分析、区别、微信公众号、产品经理app
 
 **已参加笔试**
 字节游戏：游戏了解选择题、业务分析题
+
 京东：专业知识选择题、算法编程
+
 网易：业务分析题、sql编程（考察了group by、join、子查询）
 
 ---
 ## 复习资源：
 游戏分析：
+
 https://gameinstitute.qq.com/course/detail/10141
+
 https://gameinstitute.qq.com/course/detail/10220
 
 机器学习：
+
 gbdt、xgb、lgb、cat面经整理——from牛客 - 马东什么的文章 - 知乎
 https://zhuanlan.zhihu.com/p/82521899
 
