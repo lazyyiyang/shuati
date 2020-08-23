@@ -54,7 +54,15 @@ l1如何降维
 机器学习流程
 **sql：case when**
 
-
+爱奇艺机器学习：  
+判别模型、生成模型；  
+tf损失函数、交叉熵损失函数；  
+python中iterable,iterator,generator关系；  
+高斯朴素贝叶斯参数个数；  
+bert、xlnet，gan；  
+crf、memm；  
+互信息；  
+牛顿法；  
 
 ---
 ## 复习资源：
