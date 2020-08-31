@@ -52,7 +52,7 @@ garena：
 栈、bfs、dfs、二叉树、可逆矩阵特征
 
 小红书：
-置信区间、假设检验、效能、sql（行转列，json extract ）、ABtest
+置信区间、假设检验、效能、box-cox、sql（行转列，json extract ）、ABtest
 
 达达：  
 sql（计算时间差，例如近七日数据、实现crosstab、索引、主键）、估计达达上海配送员工数量、影响履约（安全准时送达）的因素
