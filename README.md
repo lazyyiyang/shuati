@@ -57,6 +57,9 @@ garena：
 达达：  
 sql（计算时间差，例如近七日数据、实现crosstab、索引、主键）、估计达达上海配送员工数量、影响履约（安全准时送达）的因素
 
+58（偏产品）：
+cps、cpc、cpa；dau、sem、seo；hybrid app、native app；  
+举办活动，从几方面对活动效果评估；
 
 
 ---
