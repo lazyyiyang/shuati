@@ -105,4 +105,15 @@ r,             4,               read，读取。当前用户可以读取文件�
 w,           2,              write，写入。当前用户可以新增或修改文件内容，当前用户可以删除、移动目录或目录内文件。  
 x ,          1,              execute，执行。当前用户可以执行文件，当前用户可以进入目录。  
 
-1111
+
+sem&seo知识：SEM和SEO有什么区别呢？ - 余杰的回答 - 知乎
+https://www.zhihu.com/question/20307058/answer/1296919533
+
+CPA、CPS、CPM、CPT、CPC 是什么
+ https://www.a-edm.com/cpa.html
+
+
+
+hivesql 行转列（collect_set）与列转行(explode和posexplode)
+
+https://blog.csdn.net/zhouqi1991i/article/details/91957007?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-5.channel_param&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-5.channel_param
